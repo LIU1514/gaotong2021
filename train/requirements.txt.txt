@@ -1,0 +1,8 @@
+h5py==2.10.0
+#tensorflow-gpu==1.13.2
+pandas==0.24.2
+keras==2.2.4
+imutils==0.5.3
+sklearn
+h5py==2.10.0
+scikit-image
