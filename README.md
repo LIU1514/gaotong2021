@@ -47,7 +47,7 @@ train
 <!-- .slide vertical=true -->
 
 - E-mail:
-  - **[@wgoogle.cn](yangliufpga@gmail.com)**
+  - **[yangliufpga@gmail.com](yangliufpga@gmail.com)**
  
 - WeChat: ** 哈哈**
 - QQ: **保密**
