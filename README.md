@@ -15,6 +15,7 @@ ev_sdk
 |-- CMakeLists.txt          # 本项目的cmake构建文件
 |-- README.md       # 本说明文件
 |-- model           # 模型数据存放文件夹
+|   |--.gitignore   # 添加忽略项目!*.py 
 |-- config          # 程序配置目录
 |   |-- README.md   # algo_config.json文件各个参数的说明和配置方法
 |   `-- algo_config.json    # 程序配置文件
@@ -34,6 +35,9 @@ train
 |-- README.md       # 本说明文件
 
 ```
+## 注意
+- 修改ev_sdk/model/.gitignore 详细见目录修改
+- 修改ev_sdk/.gitignore 屏蔽raw
 ## 详细教程
 - bilibili: **< https://www.bilibili.com/video/BV1oh411e7dr?t=82 >**
 
