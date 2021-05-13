@@ -28,11 +28,11 @@ ev_sdk
 ```
 ```
 train
-|-- src_repo            # 第三方源码或库目录，发布时请删除
-|   |-- requirements.txt          # 环境
+|-- src_repo                # 第三方源码或库目录，发布时请删除
+|   |-- requirements.txt    # 环境
 |   |-- cJSON               # c版json库，简单易用
 |   `-- darknet             # 示例项目依赖的库
-|-- README.md       # 本说明文件
+|-- README.md               # 本说明文件
 
 ```
 ## 注意
