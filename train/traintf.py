@@ -164,8 +164,7 @@ def train():
         graph = tf.get_default_graph()
         with tf.Session() as sess:
             saver.restore(sess,ckpt.model_checkpoint_path)
-            height = 6
-            width = 6
+            
             input_image = tf.get_default_graph().get_tensor_by_name("input:0")
             fc0_output = tf.get_default_graph().get_tensor_by_name("y_conv:0")
             sess.run(tf.global_variables_initializer())
